@@ -15,7 +15,7 @@ A production-ready scaffold for building Chrome extensions with React, TypeScrip
 
 ```bash
 # Clone or download this scaffold
-git clone <your-repo> my-chrome-extension
+git clone git@github.com:chandradot99/react-chrome-extension-scaffold.git my-chrome-extension
 cd my-chrome-extension
 
 # Install dependencies
